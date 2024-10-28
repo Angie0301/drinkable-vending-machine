@@ -1,4 +1,4 @@
-import VendingMachinePlayer from '../components/vending-machine-player'
+import VendingMachinePlayer from '../../components/vending-machine-player'
 
 export default function Home() {
   return (

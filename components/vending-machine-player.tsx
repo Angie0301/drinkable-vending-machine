@@ -99,7 +99,7 @@ export default function VendingMachinePlayer() {
               ))}
             </div>
             <p className="text-center text-base sm:text-lg font-medium mt-4 mb-6 text-green-800">
-              好きな飲み物選びなさい
+              好きなの選びなさい
             </p>
           </>
         )}
